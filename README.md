@@ -36,9 +36,9 @@
 
 ## Kɛn's GitHub Stats:
 
-![Kɛn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=u73j&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Kɛn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uke4&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
-![Kɛn's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=u73j&layout=compact&hide=html,css)
+![Kɛn's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uke4&layout=compact&hide=html,css)
 
 ### Current Streak
-![Kɛn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=u73j)
+![Kɛn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=uke4)
