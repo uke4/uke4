@@ -1,6 +1,7 @@
 <div align="center">
 
 ## Hi 👋, I'm Kɛn
+</div>
 ## Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=u73j)
 # **A passionate software engineer from Morocco 🇲🇦.**  
