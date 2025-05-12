@@ -15,7 +15,7 @@
 - ⚡ I’m passionate about building innovative solutions with code.
 
 ## Connect with Me:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/abduhtheone?igsh=MXJzMG9uMDNmdmQ5Yg==)  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/Q4ZzJFBDqk)  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)]([https://youtube.com/@athd3v?si=hPpL0TKiPaXdP2pr]())
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/abduhtheone?igsh=MXJzMG9uMDNmdmQ5Yg==)  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/Q4ZzJFBDqk)  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@athd3v?si=hPpL0TKiPaXdP2pr)
 
 ## Languages & Tools:
 <div>
