@@ -8,8 +8,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=u73j)
 
-I'm deeply interested in building **Discord bots** and creating innovative solutions for communities.  
-Welcome to my GitHub profile!
+- 🔭 I’m currently working on **Athena Bots**.
+
+- 🌱 I’m learning more about **Machine Learning** and **AI** to enhance my projects.
+
+- ⚡ I’m passionate about building innovative solutions with code.
 
 ## Connect with Me:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/yourdiscordlink)  
