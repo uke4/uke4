@@ -2,13 +2,13 @@
 
 ## Hi 👋, I'm Kɛn  
 
-## **A passionate software engineer from Morocco 🇲🇦.**
+## **A dedicated software engineer from Morocco 🇲🇦.**
 
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=u73j)
 
-- 🔭 I’m currently working on **Athena Bots**.
+- 🔭 I’m currently workingo *Ahn*.
 
 - 🌱 I’m learning more about **Machine Learning** and **AI** to enhance my projects.
 
