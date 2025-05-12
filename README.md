@@ -1,8 +1,12 @@
+<div align="center">
+
 # Hi 👋, I'm Kɛn
 
-A passionate software engineer from Morocco 🇲🇦.
+A passionate software engineer from Morocco 🇲🇦.  
 I'm deeply interested in building **Discord bots** and creating innovative solutions for communities.  
 Welcome to my GitHub profile!
+
+</div>
 
 ## Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=u73j)
