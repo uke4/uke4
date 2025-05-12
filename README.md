@@ -19,20 +19,20 @@
 
 ## Languages & Tools:
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python_logo_2020.svg" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo_2015.svg" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Typescript_logo_2020.svg" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HTML5_logo_and_wordmark.svg" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/MongoDB_Logo.svg" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Adobe_Photoshop_CC_icon.svg" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Alight_Motion_Logo.png" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Adobe_After_Effects_logo.svg" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Adobe_Premiere_Pro_CC_icon.svg" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Linux_logo.png" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C%2B%2B_Logo.svg" width="50" />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="50" />
+  <img src="https://fv20.files.fm/thumb.php?i=ynd2reg5fw&v=1&n=1691819804alight-motion-logo-png.png" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" />
+</div>جرب
 
 ## Kɛn's GitHub Stats:
 
