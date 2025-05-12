@@ -6,7 +6,6 @@
 
 </div>
 
-## Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=u73j)
 
 I'm deeply interested in building **Discord bots** and creating innovative solutions for communities.  
