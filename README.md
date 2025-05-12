@@ -8,7 +8,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=u73j)
 
-- 🔭 I’m currently workingo *Ahn*.
+- 🪝 I’m currently working on *Athena Dev*.
 
 - 🌱 I’m learning more about **Machine Learning** and **AI** to enhance my projects.
 
