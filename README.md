@@ -2,7 +2,7 @@
 
 ## Hi 👋, I'm Kɛn  
 
-## **A dedicated software engineer from Morocco 🇲🇦.**
+## **A dedicated software engineer from Morocco**
 
 </div>
 
