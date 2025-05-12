@@ -19,19 +19,19 @@
 
 ## Languages & Tools:
 <div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="50" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" width="50" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="50" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" width="50" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="50" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" width="50" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" width="50" />
-  <img src="https://img.shields.io/badge/AlightMotion-FF5F00?style=for-the-badge&logo=alightmotion&logoColor=white" width="50" />
-  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" width="50" />
-  <img src="https://img.shields.io/badge/Premiere%20Pro-FF9900?style=for-the-badge&logo=adobepremierepro&logoColor=white" width="50" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="50" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="50" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python_logo_2020.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo_2015.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Typescript_logo_2020.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HTML5_logo_and_wordmark.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/MongoDB_Logo.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Adobe_Photoshop_CC_icon.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Alight_Motion_Logo.png" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Adobe_After_Effects_logo.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Adobe_Premiere_Pro_CC_icon.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Linux_logo.png" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C%2B%2B_Logo.svg" width="50" />
 </div>
 
 ## Kɛn's GitHub Stats:
