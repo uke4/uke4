@@ -1,16 +1,14 @@
 <div align="center">
 
 ## Hi 👋, I'm Kɛn
-
+## Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=u73j)
 # **A passionate software engineer from Morocco 🇲🇦.**  
 
 # I'm deeply interested in building **Discord bots** and creating innovative solutions for communities.  
 Welcome to my GitHub profile!
 
 </div>
-
-## Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=u73j)
 
 ## Connect with Me:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/yourdiscordlink)  
