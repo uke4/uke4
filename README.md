@@ -1,11 +1,11 @@
 # Hi 👋, I'm Kɛn
 
-A dedicated software engineer from Morocco 🇲🇦 (مهندس برمجيات مخلص من المغرب)  
-I'm the CEO of **Athena Dev**, a company specializing in creating innovative Discord bots and solutions.  
+A passionate software engineer from Morocco 🇲🇦.
+I'm deeply interested in building **Discord bots** and creating innovative solutions for communities.  
 Welcome to my GitHub profile!
 
 ## Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername)
+![Profile Views](https://komarev.com/ghpvc/?username=u73j)
 
 ## Connect with Me:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/yourdiscordlink)  
@@ -32,9 +32,9 @@ I use **Java** a little more than **Python**, but I am proficient in a wide vari
 
 ## Kɛn's GitHub Stats:
 
-![Kɛn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Kɛn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=u73j&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
-![Kɛn's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&hide=html,css)
+![Kɛn's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=u73j&layout=compact&hide=html,css)
 
 ### Current Streak
-![Kɛn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername)
+![Kɛn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=u73j)
