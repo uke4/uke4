@@ -27,8 +27,6 @@ Welcome to my GitHub profile!
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-## Most Used Languages:
-I use **Java** a little more than **Python**, but I am proficient in a wide variety of languages and tools.
 
 ## Kɛn's GitHub Stats:
 
