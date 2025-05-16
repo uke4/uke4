@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi 👋, I'm Kɛn  
+## Hi 👋, I'm Abdullah [Kɛn] 
 
 ## **A dedicated software engineer from Morocco**
 
