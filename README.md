@@ -6,8 +6,8 @@
 
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=uke4)
-![Discord](https://dcbadge.vercel.app/api/shield/656871811186819082?style=flat)
+[![Profile Views](https://komarev.com/ghpvc/?username=uke4)
+[![Discord](https://dcbadge.vercel.app/api/shield/656871811186819082?style=flat)
 
 
 - 🪝 I’m currently working on *Athena Dev*.
