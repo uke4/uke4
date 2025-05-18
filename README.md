@@ -18,6 +18,12 @@
 ## Connect with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/abduhtheone?igsh=MXJzMG9uMDNmdmQ5Yg==)  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/Q4ZzJFBDqk)  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@athd3v?si=hPpL0TKiPaXdP2pr)
 
+div>
+  <div style="text-align: center; margin-bottom: 10px;">
+    <img src="https://lanyard.cnrad.dev/api/656871811186819082" alt="Discord Status" width="80" style="border-radius: 8px;" />
+  </div>
+
+  
 ## Languages & Tools:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
@@ -34,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" />
 </div>
-[Discord Status](https://lanyard.cnrad.dev/api/656871811186819082)
+
 ## Kɛn's GitHub Stats:
 
 ![Kɛn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uke4&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
