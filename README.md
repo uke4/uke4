@@ -20,7 +20,7 @@
 
 <div>
   <div style="text-align: center; margin-bottom: 10px;">
-    <img src="https://lanyard.cnrad.dev/api/656871811186819082" alt="Discord Status" width="80" style="border-radius: 20px;" />
+    <img src="https://lanyard.cnrad.dev/api/656871811186819082" alt="Discord Status" width="80" style="border-radius: 50px;" />
   </div>
 
   
