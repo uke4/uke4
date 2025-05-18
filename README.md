@@ -9,8 +9,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=uke4)
 
 
-[Discord Status](https://lanyard.cnrad.dev/api/656871811186819082)
-
 - 🪝 I’m currently working on *Athena Dev*.
 
 - 🌱 I’m learning more about **Machine Learning** and **AI** to enhance my projects.
@@ -36,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" />
 </div>
-
+[Discord Status](https://lanyard.cnrad.dev/api/656871811186819082)
 ## Kɛn's GitHub Stats:
 
 ![Kɛn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uke4&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
