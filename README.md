@@ -7,6 +7,7 @@
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=uke4)
+![Discord](https://dcbadge.vercel.app/api/shield/656871811186819082?style=flat)
 
 
 - 🪝 I’m currently working on *Athena Dev*.
@@ -17,13 +18,6 @@
 
 ## Connect with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/abduhtheone?igsh=MXJzMG9uMDNmdmQ5Yg==)  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/Q4ZzJFBDqk)  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@athd3v?si=hPpL0TKiPaXdP2pr)
-
-## Discord Status :
-<div style="text-align: center; margin-bottom: 10px;">
-  <img src="https://lanyard.cnrad.dev/api/656871811186819082" 
-       alt="Discord Status" 
-       style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;" />
-</div>
 
   
 ## Languages & Tools:
