@@ -9,7 +9,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=uke4)
 
 
-## [Discord Status](https://lanyard.cnrad.dev/api/656871811186819082)
+[Discord Status](https://lanyard.cnrad.dev/api/656871811186819082)
 
 - 🪝 I’m currently working on *Athena Dev*.
 
