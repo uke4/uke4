@@ -6,17 +6,15 @@
 - <img src="assets/reading.png" height="24" /> I’m currently learning  
   **JavaScript, HTML, CSS, Python, Node.js, TypeScript, and Cyber Security basics (network & web security)**
 
-- 👯 I’m looking to collaborate on [Null](https://github.com/uke4)
-
-- 🤝 I’m looking for help with [Null](https://github.com/uke4)
+- <img src="assets/partner.png" height="24" /> I’m looking to collaborate on [Null](https://github.com/uke4)
 
 - 👨‍💻 All of my projects are available at [null](null)
 
-- 💬 Ask me about **Discord bots, full-stack web development, and online security issues (especially on social platforms and the web)**
+- <img src="assets/ask.png" height="24" /> Ask me about **Discord bots, full-stack web development, and online security issues (especially on social platforms and the web)**
 
 <h3 align="left">How to reach me :</h3>
 
-📧 **Email :** [abduh.codes@outlook.com](mailto:abduh.codes@outlook.com)
+<img src="assets/dm.png" height="24" /> **Email :** [abduh.codes@outlook.com](mailto:abduh.codes@outlook.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
