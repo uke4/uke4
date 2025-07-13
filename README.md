@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, Vue, GSAP, Discord bots, and full-stack web development**
 
-- 📫 How to reach me ** abduh.codes@outlook.com**
+- 📫 How to reach me **abduh.codes@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
