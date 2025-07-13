@@ -6,7 +6,6 @@
 - <img src="assets/reading.png" height="24" /> I’m currently learning  
   **JavaScript, HTML, CSS, Python, Node.js, TypeScript, and Cyber Security basics (network & web security)**
 
-- <img src="assets/partner.png" height="24" /> I’m looking to collaborate on [Null](https://github.com/uke4)
 
 - 👨‍💻 All of my projects are available at [null](null)
 
