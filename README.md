@@ -19,7 +19,7 @@
 
 <h3 align="left">How to reach me :</h3>
 
-<img src="assets/dm.png" height="20" /> **Email :** [abduh.codes@outlook.com](mailto:abduh.codes@outlook.com)
+<img src="assets/dm.png" height="25" /> **Email :**  [abduh.codes@outlook.com](mailto:abduh.codes@outlook.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
