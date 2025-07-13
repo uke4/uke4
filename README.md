@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Null](https://github.com/uke4)
 
-- 🌱 I’m currently learning  
+- <img src="assets/reading.png" height="30" /> I’m currently learning  
   **JavaScript, HTML, CSS, Python, Node.js, TypeScript, and Cyber Security basics (network & web security)**
 
 - 👯 I’m looking to collaborate on [Null](https://github.com/uke4)
