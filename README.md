@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="assets/hi.gif" width="40" /> I'm Abdullah (Kɛn)</h1>
 <h3 align="center">A passionate Full-Stack Developer 🧑‍💻</h3>
 
-- 🔭 I’m currently working on [Null](https://github.com/uke4)
+- 🔭 I’m currently working on ![Athena Dev](https://img.shields.io/badge/Athena%20Dev%20%C2%A9-purple)
 
 - <img src="assets/reading.png" height="24" /> I’m currently learning  
   **JavaScript, HTML, CSS, Python, Node.js, TypeScript, and Cyber Security basics (network & web security)**
