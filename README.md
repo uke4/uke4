@@ -126,9 +126,9 @@
 <p><a href="https://ko-fi.com/vbduh"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="180" alt="ko-fi.com/vbduh" /></a></p><br><br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uke4&show_icons=true&locale=en&layout=compact&theme=dark" alt="uke4" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uke4&show_icons=true&locale=en&layout=compact&theme=radical" alt="uke4" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=uke4&show_icons=true&locale=en&theme=dark" alt="uke4" />
+  <img src="https://github-readme-stats.vercel.app/api?username=uke4&show_icons=true&locale=en&theme=radical" alt="uke4" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uke4&theme=dark" alt="uke4" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uke4&theme=radical" alt="uke4" />
 </div>
