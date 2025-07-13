@@ -133,4 +133,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=uke4&show_icons=true&locale=en&theme=radical" alt="uke4" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uke4&theme=radical" alt="uke4" />
+
+
+### Thank u For Visiting <img src="assets/<3.gif" width="40" />
 </div>
