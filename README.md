@@ -1,5 +1,5 @@
-<h1 align="center">Hi  I'm Abdullah (Kɛn)</h1>
-<h3 align="center">A p<img src="assets/hi.gif" width="40" /> Passionate Full-Stack Developer 🧑‍💻</h3>
+<h1 align="center">Hi <img src="assets/hi.gif" width="40" /> I'm Abdullah (Kɛn)</h1>
+<h3 align="center">A passionate Full-Stack Developer 🧑‍💻</h3>
 
 - 🔭 I’m currently working on [Null](https://github.com/uke4)
 
