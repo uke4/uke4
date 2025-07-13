@@ -83,9 +83,9 @@
 
 ### ☁️ Cloud Platforms & Deployment
 
-![Replit](https://img.shields.io/badge/Replit-000000?style=for-the-badge&logo=replit&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-000000?style=for-the-badge&logo=replit&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-FF87FF?style=for-the-badge&logo=railway&logoColor=white)
 
 ---
