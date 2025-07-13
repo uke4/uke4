@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="assets/hi.gif" width="40" /> I'm Abdullah (Kɛn)</h1>
 <h3 align="center">A passionate Full-Stack Developer 🧑‍💻</h3>
+![Profile Views](https://komarev.com/ghpvc/?username=uke4&label=Profile%20views&color=purple&style=flat)
 
 - 🔭 I’m currently working on ![Athena Dev](https://img.shields.io/badge/Athena%20Dev%20%C2%A9-purple)
 
