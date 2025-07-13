@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Developer 🧑‍💻</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=uke4&label=Profile%20views&color=purple&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=uke4&label=Profile%20views&style=flat" alt="Profile Views" />
 </p>
 
 ---
