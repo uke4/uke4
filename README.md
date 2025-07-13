@@ -14,7 +14,7 @@
 - 💬 Ask me about **React, Vue, GSAP, Discord bots, and full-stack web development**
 
 <h3 align="left"> How to reach me:</h3>
-- 📫 **abduh.codes@outlook.com**
+- <h3 align="left">📫 **abduh.codes@outlook.com**</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
