@@ -1,7 +1,5 @@
-<h1 align="center">Hi ![Waving Hand Emoji](https://www.clipartmax.com/middle/m2i8A0d3b1H7G6m2_waving-hand-sign-iphone-emoji-jpg-waving-hand-emoji-png/) I'm Abdullah (Kɛn)</h1>
-<h3 align="center">A passionate Full-Stack Developer</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uke4" alt="uke4" /></a> </p>
+<h1 align="center">Hi 👋 I'm Abdullah (Kɛn)</h1>
+<h3 align="center">A passionate Full-Stack Developer 🧑‍💻</h3>
 
 - 🔭 I’m currently working on [Null](https://github.com/uke4)
 
@@ -15,7 +13,7 @@
 
 - 💬 Ask me about **React, Vue, GSAP, Discord bots, and full-stack web development**
 
-- 📫 How to reach me **📧 abduh.codes@outlook.com**
+- 📫 How to reach me ** abduh.codes@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
