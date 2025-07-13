@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [null](null)
 
-- 💬 Ask me about **React, Vue, GSAP, Discord bots, and full-stack web development**
+- 💬 Ask me about **Discord bots, full-stack web development, and online security issues (especially on social platforms and the web)**
 
 <h3 align="left">How to reach me:</h3>
 
@@ -27,17 +27,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<!-- الأدوات تبقى كما هي بدون تغيير -->
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<!-- باقي الأدوات ... -->
+<!-- أدوات التطوير -->
+<!-- ... -->
 </p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/vbduh"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/vbduh" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uke4&show_icons=true&locale=en&layout=compact&theme=dark" alt="uke4" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uke4&show_icons=true&locale=en&theme=dark" alt="uke4" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uke4&theme=dark" alt="uke4" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uke4&show_icons=true&locale=en&layout=compact&theme=dark" alt="uke4" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=uke4&show_icons=true&locale=en&theme=dark" alt="uke4" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uke4&theme=dark" alt="uke4" />
+</div>
