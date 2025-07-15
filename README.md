@@ -13,7 +13,7 @@
   **JavaScript, HTML, CSS, Python, Node.js, TypeScript, and Cyber Security basics (network & web security)**
 
 
-- 👨‍💻 All of my projects are available at [null](null)
+- 👨‍💻 All of my projects are available at [Portfolio](https://1bduh.vercel.app/)
 
 - <img src="assets/ask.png" height="24" /> Ask me about **Discord bots, full-stack web development, and online security issues (especially on social platforms and the web)**
 
