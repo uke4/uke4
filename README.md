@@ -136,5 +136,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uke4&theme=radical" alt="uke4" />
 
 
-###  Thank u For Visiting <img src="assets/<3.gif" width="30" />
+###  <img src="assets/<3.gif" width="30" />
 </div>
