@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Developer 🧑‍💻</h3>
 
 <div align="center">
- [![Website](https://img.shields.io/badge/Website-ken.portfolio-blue?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://k3n.vercel.app/)
+ ![Website](https://img.shields.io/badge/Website-ken.portfolio-blue?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://k3n.vercel.app/)
 
 </div>
 
