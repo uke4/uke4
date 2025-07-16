@@ -1,7 +1,10 @@
 <h1 align="center">Hi <img src="assets/hi.gif" width="40" /> I'm Abdullah (Kɛn)</h1>
 <h3 align="center">A passionate Full-Stack Developer 🧑‍💻</h3>
 
-  [![Website](https://img.shields.io/badge/Website-ken.portfolio-blue?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://k3n.vercel.app/)
+<div align="center">
+ [![Website](https://img.shields.io/badge/Website-ken.portfolio-blue?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://k3n.vercel.app/)
+
+</div>
 
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://1bduh.vercel.app/)
