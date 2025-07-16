@@ -72,20 +72,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uke4&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
-### **Current Projects**
+## **🚀 Current Projects**
 
 * Modern front-end development using React and Tailwind CSS
 * Flask API development with secure modular architecture
 * Discord bot creation with rich command-line interface (CLI)
 * Integration of email-based CPA offers with automation tools
 * Game scripting and map logic design in Free Fire Craftland
-* Development of Magisk modules for Android performance tuning
+* Development of Magisk modules for Androi performance tuning
 * Dual-boot setup and Linux system optimization for development
 * Custom API endpoint building and secure key validation
 
 ---
 
-### **Experience Highlights 💼**
+## **💼 Experience Highlights**
 
 * Full-stack development with Flask (Python) and React (JavaScript)
 * RESTful API design with unified handler-based architecture
