@@ -28,7 +28,6 @@ Full-stack developer with a focus on API development, modern UIs, and advanced D
 
 ### Backend  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/discord.js-7289DA.svg?style=flat-square&logo=discord&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
