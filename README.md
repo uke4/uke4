@@ -3,7 +3,6 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-ken.portfolio-blue?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://k3n.vercel.app/)
-[![Twitter](https://img.shields.io/badge/Twitter-@1bduhh-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/1bduhh)
 [![Email](https://img.shields.io/badge/Email-abduh.codes@outlook.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abduh.codes@outlook.com)
 
 </div>
@@ -14,7 +13,7 @@
 
 Full-stack developer with a focus on API development, modern UIs, and advanced Discord bot systems using Python and JavaScript.
 
----
+
 
 ## 🛠️ Skills & Tools
 
@@ -53,7 +52,7 @@ Full-stack developer with a focus on API development, modern UIs, and advanced D
 
 </div>
 
----
+
 
 ## 🔗 Connect with Me
 
@@ -64,7 +63,7 @@ Full-stack developer with a focus on API development, modern UIs, and advanced D
   <a href="https://discord.gg/Q4ZzJFBDqk" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
 </p>
 
----
+
 
 ## ☕ Support Me
 
@@ -74,7 +73,7 @@ Full-stack developer with a focus on API development, modern UIs, and advanced D
   </a>
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -83,7 +82,6 @@ Full-stack developer with a focus on API development, modern UIs, and advanced D
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uke4&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
----
 
 ## 🚀 Current Projects
 
@@ -92,7 +90,7 @@ Full-stack developer with a focus on API development, modern UIs, and advanced D
 - Discord bot creation with rich command-line interface (CLI)  
 - Custom API endpoint building
 
----
+
 
 ## 💼 Experience Highlights
 
@@ -101,7 +99,6 @@ Full-stack developer with a focus on API development, modern UIs, and advanced D
 - Interactive UI design with GSAP, Framer Motion, and Tailwind  
 - Database structuring with Firestore, SQLite, and JSON handling
 
----
 
 <p align="center">
   🔍 <strong>Always exploring new ideas and ready to team up on exciting projects — let’s create something awesome together!.</strong>
