@@ -68,7 +68,7 @@ Full-stack developer with a focus on API development, modern UIs, and advanced D
 
 <p>
   <a href="https://ko-fi.com/vbduh">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="30" width="150" alt="Buy Me a Coffee" />
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="30" width="180" alt="Buy Me a Coffee" />
   </a>
 </p>
 
