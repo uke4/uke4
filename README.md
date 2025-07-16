@@ -172,5 +172,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uke4&theme=radical" alt="uke4" />
 
 
-###  <img src="assets/<3.gif" width="30" />
-</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=uke4&color=blueviolet&style=flat-square" alt="Profile Views"/>
