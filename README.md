@@ -18,7 +18,6 @@
 <a href="https://discord.gg/Q4ZzJFBDqk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/Q4ZzJFBDqk" height="30" width="40" /></a>
 </p>
 
----
 
 ## Skills & Tools 🛠️
 
@@ -75,8 +74,6 @@
 * Flask API development with secure modular architecture
 * Discord bot creation with rich command-line interface (CLI)
 * Custom API endpoint building 
-
----
 
 ## **💼 Experience Highlights**
 
