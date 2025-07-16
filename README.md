@@ -58,9 +58,6 @@
 </div>
 
 
----
-
-
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/vbduh"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="30" width="150" alt="ko-fi.com/vbduh" /></a></p><br><br>
@@ -77,8 +74,6 @@
 * Modern front-end development using React and Tailwind CSS
 * Flask API development with secure modular architecture
 * Discord bot creation with rich command-line interface (CLI)
-* Integration of email-based CPA offers with automation tools
-* Dual-boot setup and Linux system optimization for development
 * Custom API endpoint building 
 
 ---
