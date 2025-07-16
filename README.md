@@ -6,6 +6,9 @@
 
 </div>
 
+## About Me 🧑‍💻 :
+Full-stack developer with a focus on API development, modern UIs, and advanced Discord bot systems using Python and JavaScript.
+
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://1bduh.vercel.app/)
 
