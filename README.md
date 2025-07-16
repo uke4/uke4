@@ -78,10 +78,8 @@
 * Flask API development with secure modular architecture
 * Discord bot creation with rich command-line interface (CLI)
 * Integration of email-based CPA offers with automation tools
-* Game scripting and map logic design in Free Fire Craftland
-* Development of Magisk modules for Androi performance tuning
 * Dual-boot setup and Linux system optimization for development
-* Custom API endpoint building and secure key validation
+* Custom API endpoint building 
 
 ---
 
