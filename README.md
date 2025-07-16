@@ -1,5 +1,4 @@
 <h1 align="center">Hi <img src="assets/hi.gif" width="40" /> I'm Abdullah (Kɛn)</h1>
-<h3 align="center">A passionate Full-Stack Developer 🧑‍💻</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=Web+Developer;Software+Developer;Python+%26+JavaScript+Expert" alt="Typing SVG" />
