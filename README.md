@@ -86,10 +86,6 @@
 * RESTful API design with unified handler-based architecture
 * Interactive UI design with GSAP, Framer Motion, and Tailwind
 * Database structuring with Firestore, SQLite, and JSON handling
-* Command-line project management using Termux and Git
-* Android customization via build.prop editing and performance modules
-* Deployment of full-stack apps to Render, Railway, and Vercel
-* Real-time bot systems for Discord with email integration and alerts
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=uke4&color=blueviolet&style=flat-square" alt="Profile Views"/>
