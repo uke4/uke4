@@ -10,16 +10,6 @@
 Full-stack developer with a focus on API development, modern UIs, and advanced Discord bot systems using Python and JavaScript.
 
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/1bduhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1bduhh" height="30" width="40" /></a>
-<a href="https://instagram.com/abduhtheone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abduhtheone" height="30" width="40" /></a>
-<a href="https://youtube.com/@athd3v?si=0bj3N96veIlxASFz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@athd3v" height="30" width="40" /></a>
-<a href="https://discord.gg/Q4ZzJFBDqk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/Q4ZzJFBDqk" height="30" width="40" /></a>
-</p>
-
-
 ## Skills & Tools 🛠️
 
 <div align="center">
@@ -57,7 +47,13 @@ Full-stack developer with a focus on API development, modern UIs, and advanced D
 
 </div>
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/1bduhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1bduhh" height="30" width="40" /></a>
+<a href="https://instagram.com/abduhtheone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abduhtheone" height="30" width="40" /></a>
+<a href="https://youtube.com/@athd3v?si=0bj3N96veIlxASFz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@athd3v" height="30" width="40" /></a>
+<a href="https://discord.gg/Q4ZzJFBDqk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/Q4ZzJFBDqk" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/vbduh"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="30" width="150" alt="ko-fi.com/vbduh" /></a></p><br><br>
