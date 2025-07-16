@@ -10,13 +10,6 @@
 Full-stack developer with a focus on API development, modern UIs, and advanced Discord bot systems using Python and JavaScript.
 
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://1bduh.vercel.app/)
-
-- <img src="assets/ask.png" height="24" /> Ask me about **Discord bots, full-stack web development, and online security issues (especially on social platforms and the web)**
-
-<h3 align="left">How to reach me :</h3>
-
-<img src="assets/dm.png" height="25" /> **Email :**  [abduh.codes@outlook.com](mailto:abduh.codes@outlook.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
